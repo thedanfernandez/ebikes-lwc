@@ -1,0 +1,68 @@
+<mxfile host="65bd71144e">
+    <diagram id="yiOeLwIZETlsDAkqMdi0" name="Page-1">
+        <mxGraphModel dx="600" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Step 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="150" as="sourcePoint"/>
+                        <mxPoint x="270" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Step 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="250" as="sourcePoint"/>
+                        <mxPoint x="440" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="Step 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="1LV6NwcdVnT26uk0GWnO" name="Page-2">
+        <mxGraphModel dx="600" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="40" width="200" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iKeybNumb;sketch=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="280" width="174" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-15" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="228" y="100" width="164" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-16" value="Saturday 10:12 AM" style="shape=text;align=center;verticalAlign=middle;fontSize=5;fontColor=#999999;strokeColor=none;fillColor=none;spacingTop=3;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="CM85ZuZEm6wHz9na8q7x-15">
+                    <mxGeometry width="164" height="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-17" value="Hey man, got a sec?" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.callout;strokeColor=none;fillColor=#E7E6EC;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=2;whiteSpace=wrap;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="CM85ZuZEm6wHz9na8q7x-15">
+                    <mxGeometry width="90" height="20" relative="1" as="geometry">
+                        <mxPoint x="5" y="15" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-18" value="Hi Tim, of course, just give me a couple minutes to finish breakfast." style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.callout;strokeColor=none;fillColor=#0680FF;flipH=1;align=left;verticalAlign=top;fontSize=7;spacingLeft=2;fontColor=#ffffff;spacingTop=-2;whiteSpace=wrap;spacingRight=12;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="CM85ZuZEm6wHz9na8q7x-15">
+                    <mxGeometry x="0.35" width="100" height="35" relative="1" as="geometry">
+                        <mxPoint y="40" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CM85ZuZEm6wHz9na8q7x-19" value="Read Friday" style="shape=text;align=right;verticalAlign=middle;fontSize=5;fontColor=#999999;strokeColor=none;fillColor=none;spacingTop=3;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="CM85ZuZEm6wHz9na8q7x-15">
+                    <mxGeometry width="164" height="10" relative="1" as="geometry">
+                        <mxPoint y="80" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -47,6 +47,7 @@ export default class PropertyMap extends LightningElement {
         } else if (error) {
             this.markers = [];
             this.error = error;
+            console.log(error);
         }
     }
 }
